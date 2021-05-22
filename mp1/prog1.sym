@@ -1,0 +1,33 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	HFLOOP            3004
+//	COUNTLOOP         300C
+//	NON_ALPHA         3010
+//	AT_LEAST_A        3014
+//	ALPHA             3016
+//	MORE_THAN_Z       301B
+//	GET_NEXT          3020
+//	PRINT_HIST        3022
+//	LOOP              3026
+//	BIG               302B
+//	EXTRACT           302D
+//	YEET              3030
+//	SKIP              3034
+//	NUMERICAL         3040
+//	FIN               3044
+//	DONE              3051
+//	NUM_BINS          3052
+//	NEG_AT            3053
+//	AT_MIN_Z          3054
+//	AT_MIN_BQ         3055
+//	HIST_ADDR         3056
+//	STR_START         3057
+//	BRUH              3058
+//	SPACE             3059
+//	NEWLINE           305A
+//	ZERO              305B
+//	A                 305C
+//	FOUR              305D
+
